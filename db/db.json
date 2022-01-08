@@ -1,6 +1,32 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Call Home Depot",
+      "text": "Need to see if they have any 5/16 Bolts In Stock.",
+      "id": "72b9de1d-fe29-4ea0-ad59-b7140c75ce68"
+    },
+    {
+      "title": "Cancel My Subcriptions",
+      "text": "Cancel my Netflix, Hulu, Disney Plus, HBO Max Accounts.",
+      "id": "adf8a2f1-b0de-4a46-a145-46a31434efda"
+    },
+    {
+      "title": "Call My Dad",
+      "text": "Call Dad to tell him happy birthday, don't forget to mention the present you got for him!",
+      "id": "ad0ada3d-5a0b-48ab-bda6-27b90be1bab1"
+    },
+    {
+      "title": "Delete and Remove Facebook Account",
+      "text": "Recent news and Data links prove facebook is stealing and selling all of your information.",
+      "id": "06da80d8-97ff-4960-85a0-a9c8f80d70a9"
+    },
+    {
+      "title": "Call My Sister",
+      "text": "Call your sister while you have some time to catch up a little.",
+      "id": "4c600d42-400b-4703-aedd-5acf659ad62a"
+    },
+    {
+      "title": "Research Crypto Miner Availabiliy",
+      "text": "Check Goldshell website and see if their new KD-Miner is available for purchase.",
+      "id": "ed1a3aca-dfa5-433d-b304-9839d919e456"
     }
-]
+  ]
