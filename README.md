@@ -4,10 +4,10 @@
 A simple app that allows you to manage your reminders list.
 
 ## Screenshots of Functional Web Application
-![Screenshot](Info-Machine/public/assets/images/NT-1.JPG "Info-Machine")
-![Screenshot](Info-Machine/public/assets/images/NT-2.JPG "Info-Machine")
-![Screenshot](Info-Machine/public/assets/images/NT-3.JPG "Info-Machine")
-![Screenshot](Info-Machine/public/assets/images/NT-4.JPG "Info-Machine")
+![Screenshot](public/assets/images/NT-1.JPG "Info-Machine")
+![Screenshot](public/assets/images/NT-2.JPG "Info-Machine")
+![Screenshot](public/assets/images/NT-3.JPG "Info-Machine")
+![Screenshot](public/assets/images/NT-4.JPG "Info-Machine")
 
 ## Built With
 * HTML
